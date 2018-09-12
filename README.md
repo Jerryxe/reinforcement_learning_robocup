@@ -1,2 +1,4 @@
-# reinforcement_learning_robocup
-Implementation of Correlated-Q Learning on RoboCup Game
+# Reinforcement Learning Implementation of Correlated-Q Learning on RoboCup Game
+
+## Running Instruction
+Run the full proj3.py file, which will generate 4 charts.
